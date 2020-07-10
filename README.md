@@ -16,7 +16,7 @@ Será necessário escolher um número dentro de 1,2,3 ou 4 para visualizar o res
 O exercício 1 possui 2 classes:
 </br>-Exercise1.java
 </br>-Exercise1Result.java
-Onde a classe "Exercise1" é a classe encapsulada onde os valores referente a 'total de eleitores', 'válidos', 'votos brancos', 'nulos' são armazenados e também consultados.
+</br>Onde a classe "Exercise1" é a classe encapsulada onde os valores referente a 'total de eleitores', 'válidos', 'votos brancos', 'nulos' são armazenados e também consultados.
 A classe "Exercise1Result" é a classe que executa a lógica e exibe o resultado final.
 
 O exercício 2 possui a classe "Exercise2.java" que será responsável por receber a lista de números, ordenar e exibir o resultado.
