@@ -3,7 +3,6 @@
 <h3> Autor: Renato Babata </h3>
 <h3> Linguagem de programação: Java 8</h3>
 <h3> IDE: Eclipse 2019-12 (4.14.0)</h3>
-<h3> Libraries instaladas no Eclipse: Hamcrest e JUnit</h3>
 
 <p>Exercícios (Java)</p>
 <p>
